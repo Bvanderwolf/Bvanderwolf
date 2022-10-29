@@ -2,7 +2,9 @@
 My name is Benjamin, a IT and Tech :computer: enthusiast, graduated from the University Of Applied Sciences in Amsterdam starting a new study at Codam - Amsterdam. Besides working on IT projects, I like to:
 1. Work out :muscle:
 2. Read :books:
-3. Work on hobby projects to learn more about the tools and design structures that in my opinion, a good game developer should know about.
+3. Cook: :curry:
+4. Volunteer at the animal shelter: :dog2:
+5. Work on hobby projects to learn more about the tools and design structures that in my opinion, a good game developer should know about.
 
 ### Experience
 I am a skilled independent worker with an experienced team mindset from multiple company experiences :office:. I am familiar with version control systems like git and collaborative methodologies like Scrum and Kanban.
