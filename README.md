@@ -5,14 +5,6 @@ My name is Benjamin, a IT and Tech :computer: enthusiast, graduated from the Uni
 2. Read :books:
 3. Work on hobby projects to learn more about the tools and design structures that in my opinion, a good game developer should know about.
 
-### Social
-
-<p align="center">
-<a href= "mailto:benjaminvanderwolf@gmail.com"><img src="https://img.icons8.com/material-outlined/32/000000/mail.png"/></a>
-<a href= "https://twitter.com/Benjami47071287"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://www.linkedin.com/in/benjamin-van-der-wolf-742305160/"><img src="https://img.icons8.com/metro/26/000000/linkedin.png"/></a>
-</p>
-
 ### Github Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bvanderwolf&layout=compact&theme=radical)
