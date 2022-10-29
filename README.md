@@ -5,7 +5,7 @@ My name is Benjamin, a IT and Tech :computer: enthusiast, graduated from the Uni
 2. Read :books:
 3. Work on hobby projects to learn more about the tools and design structures that in my opinion, a good game developer should know about.
 
-### Github Stats
+### Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bvanderwolf&layout=compact&theme=radical)
 
