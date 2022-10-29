@@ -7,8 +7,7 @@ My name is Benjamin, a IT and Tech :computer: enthusiast, graduated from the Uni
 
 ## Github Stats
 
-![Bvanderwolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bvanderwolf&show_icons=true&theme=radical)
-![Abi Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bvanderwolf&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bvanderwolf&layout=compact&theme=radical)
 
 ## Work Experience
 I am a skilled independent worker with an experienced team mindset from multiple company experiences :office:. I am familiar with version control systems like git and collaborative methodologies like Scrum and Kanban.
