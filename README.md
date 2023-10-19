@@ -1,5 +1,5 @@
 ## Hey there 👋
-My name is Benjamin, a IT and Tech :computer: enthusiast, graduated from the University Of Applied Sciences in Amsterdam starting a new study at Codam - Amsterdam. Besides working on IT projects, I like to:
+My name is Benjamin, a IT and Tech :computer: enthusiast, graduated from the University Of Applied Sciences in Amsterdam. Besides working on IT projects, I like to:
 1. Work out :muscle:
 2. Read :books:
 3. Cook: :curry:
